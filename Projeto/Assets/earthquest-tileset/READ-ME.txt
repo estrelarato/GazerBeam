@@ -1,0 +1,21 @@
+Hello, and thank you for downloading my "Earthquest" pixel art tileset from Fals Fiction.
+
+This package should contain the following files:
+ — about.txt (you are here)
+ — bg-trees_shadowfals.png
+ — mockup_shadowfals.png
+ — tileset_shadowfals.png
+
+The game assets contained in this package are in continued development. They have been published as-is to meet an asset jam deadline and may be republished later with my edits.
+
+Under the condition you downloaded this package from https://falsfiction.itch.io: you are hereby granted permission to use the contained images within for personal or commercial projects that are not under futher restrictions as described below.
+
+At no time is any of the contents of this package allowed to be used in machine learning or "artificial intelligence" (AI) training datasets, in non-fungible tokens (NFT) transactions, for resell as grahical assets without my (the creator's) explicit consent, or to promot illegal products.
+
+Ways to contact the creator at the time of this writing are through https://itch.io/shadowfals or https://neocities.org/site/falsfiction.
+
+To support this project or others like it: please rate, comment, and/or send money my way on Itch.io (falsfiction.itch.io), Ko-fi (ko-fi.com/shadowfals), or the "Send a Tip" button at neocities.org/site/falsfiction). I have real-life grass and rabbits— inspirations for this set!— to feed.
+
+Thanks again for your interest in the tileset and also for reading this far.
+
+~ AF, August 2025  
